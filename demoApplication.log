@@ -1,0 +1,25 @@
+[main] INFO  App  - JAX-RS based micro-service running!
+[XNIO-1 I/O-1] DEBUG io.undertow.request  - Matched default handler path /api
+[XNIO-1 I/O-1] DEBUG io.undertow.request  - Matched default handler path /
+[XNIO-1 I/O-1] DEBUG io.undertow.request  - Matched default handler path /
+[XNIO-1 I/O-1] DEBUG io.undertow.request  - Matched default handler path /favicon.ico
+[XNIO-1 I/O-1] DEBUG io.undertow.request  - Matched default handler path /
+[XNIO-1 I/O-1] DEBUG io.undertow.request  - Matched default handler path /
+[XNIO-1 I/O-1] DEBUG io.undertow.request  - Matched default handler path /api/
+[XNIO-1 I/O-1] DEBUG io.undertow.request  - Matched default handler path /api/
+[XNIO-1 I/O-1] DEBUG io.undertow.request  - Matched default handler path /api/
+[XNIO-1 I/O-4] DEBUG io.undertow.request  - Timing out idle connection from /0:0:0:0:0:0:0:1:55581
+[XNIO-1 I/O-3] DEBUG io.undertow.request  - Timing out idle connection from /0:0:0:0:0:0:0:1:55582
+[XNIO-1 I/O-2] DEBUG io.undertow.request  - Timing out idle connection from /0:0:0:0:0:0:0:1:55583
+[XNIO-1 I/O-1] DEBUG io.undertow.request  - Timing out idle connection from /0:0:0:0:0:0:0:1:55568
+[XNIO-1 I/O-1] DEBUG io.undertow.request  - Matched default handler path /
+[XNIO-1 I/O-1] DEBUG io.undertow.request  - Timing out idle connection from /0:0:0:0:0:0:0:1:55808
+[main] INFO  App  - JAX-RS based micro-service running!
+[XNIO-1 I/O-1] DEBUG io.undertow.request  - Matched default handler path /api
+[XNIO-1 I/O-1] DEBUG io.undertow.request  - Matched default handler path /
+[XNIO-1 I/O-1] DEBUG io.undertow.request  - Timing out idle connection from /127.0.0.1:55928
+[main] INFO  App  - JAX-RS based micro-service running!
+[XNIO-1 I/O-1] DEBUG io.undertow.request  - Matched default handler path /
+[XNIO-1 I/O-1] DEBUG io.undertow.request  - Matched default handler path /api
+[XNIO-1 I/O-4] DEBUG io.undertow.request  - Timing out idle connection from /0:0:0:0:0:0:0:1:56318
+[XNIO-1 I/O-1] DEBUG io.undertow.request  - Timing out idle connection from /0:0:0:0:0:0:0:1:56317
